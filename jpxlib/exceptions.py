@@ -1,0 +1,2 @@
+class InvalidTradeData(ValueError):
+    pass
